@@ -20,7 +20,7 @@
 
   <loc>https://sebastiendev.fr/</loc>
 
-  <lastmod>2023-03-02T09:55:40+00:00</lastmod>
+  <lastmod>2024-02-05T15:00:00+00:00</lastmod>
 
   <priority>1.00</priority>
 
@@ -30,7 +30,16 @@
 
   <loc>https://sebastiendev.fr/assets/data/Sebastien_Guittard__CV.pdf</loc>
 
-  <lastmod>2023-03-02T09:56:06+00:00</lastmod>
+  <lastmod>2024-02-01T10:40:06+00:00</lastmod>
+
+  <priority>0.80</priority>
+
+</url>
+<url>
+
+  <loc>https://sebastiendev.fr/assets/data/Sebastien_Guittard__CV1.pdf</loc>
+
+  <lastmod>2024-02-01T10:40:06+00:00</lastmod>
 
   <priority>0.80</priority>
 
